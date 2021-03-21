@@ -1,0 +1,7 @@
+C:\Users\ELiF\source\repos\STACK\STACK\bin\Debug\STACK.exe.config
+C:\Users\ELiF\source\repos\STACK\STACK\bin\Debug\STACK.exe
+C:\Users\ELiF\source\repos\STACK\STACK\bin\Debug\STACK.pdb
+C:\Users\ELiF\source\repos\STACK\STACK\obj\Debug\STACK.csprojAssemblyReference.cache
+C:\Users\ELiF\source\repos\STACK\STACK\obj\Debug\STACK.csproj.CoreCompileInputs.cache
+C:\Users\ELiF\source\repos\STACK\STACK\obj\Debug\STACK.exe
+C:\Users\ELiF\source\repos\STACK\STACK\obj\Debug\STACK.pdb
