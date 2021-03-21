@@ -1,0 +1,7 @@
+C:\Users\ELiF\source\repos\TELİ LİNKED-ÇİFTLİ LİNKED\TELİ LİNKED-ÇİFTLİ LİNKED\bin\Debug\TELİ LİNKED-ÇİFTLİ LİNKED.exe.config
+C:\Users\ELiF\source\repos\TELİ LİNKED-ÇİFTLİ LİNKED\TELİ LİNKED-ÇİFTLİ LİNKED\bin\Debug\TELİ LİNKED-ÇİFTLİ LİNKED.exe
+C:\Users\ELiF\source\repos\TELİ LİNKED-ÇİFTLİ LİNKED\TELİ LİNKED-ÇİFTLİ LİNKED\bin\Debug\TELİ LİNKED-ÇİFTLİ LİNKED.pdb
+C:\Users\ELiF\source\repos\TELİ LİNKED-ÇİFTLİ LİNKED\TELİ LİNKED-ÇİFTLİ LİNKED\obj\Debug\TELİ LİNKED-ÇİFTLİ LİNKED.csprojAssemblyReference.cache
+C:\Users\ELiF\source\repos\TELİ LİNKED-ÇİFTLİ LİNKED\TELİ LİNKED-ÇİFTLİ LİNKED\obj\Debug\TELİ LİNKED-ÇİFTLİ LİNKED.csproj.CoreCompileInputs.cache
+C:\Users\ELiF\source\repos\TELİ LİNKED-ÇİFTLİ LİNKED\TELİ LİNKED-ÇİFTLİ LİNKED\obj\Debug\TELİ LİNKED-ÇİFTLİ LİNKED.exe
+C:\Users\ELiF\source\repos\TELİ LİNKED-ÇİFTLİ LİNKED\TELİ LİNKED-ÇİFTLİ LİNKED\obj\Debug\TELİ LİNKED-ÇİFTLİ LİNKED.pdb
