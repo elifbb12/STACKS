@@ -1,0 +1,7 @@
+C:\Users\ELiF\source\repos\STACK ÖRNEKLERİ\STACK ÖRNEKLERİ\bin\Debug\STACK ÖRNEKLERİ.exe.config
+C:\Users\ELiF\source\repos\STACK ÖRNEKLERİ\STACK ÖRNEKLERİ\bin\Debug\STACK ÖRNEKLERİ.exe
+C:\Users\ELiF\source\repos\STACK ÖRNEKLERİ\STACK ÖRNEKLERİ\bin\Debug\STACK ÖRNEKLERİ.pdb
+C:\Users\ELiF\source\repos\STACK ÖRNEKLERİ\STACK ÖRNEKLERİ\obj\Debug\STACK ÖRNEKLERİ.csprojAssemblyReference.cache
+C:\Users\ELiF\source\repos\STACK ÖRNEKLERİ\STACK ÖRNEKLERİ\obj\Debug\STACK ÖRNEKLERİ.csproj.CoreCompileInputs.cache
+C:\Users\ELiF\source\repos\STACK ÖRNEKLERİ\STACK ÖRNEKLERİ\obj\Debug\STACK ÖRNEKLERİ.exe
+C:\Users\ELiF\source\repos\STACK ÖRNEKLERİ\STACK ÖRNEKLERİ\obj\Debug\STACK ÖRNEKLERİ.pdb
