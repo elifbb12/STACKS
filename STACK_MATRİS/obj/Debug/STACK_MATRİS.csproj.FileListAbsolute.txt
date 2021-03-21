@@ -1,0 +1,7 @@
+C:\Users\ELiF\source\repos\STACK_MATRİS\STACK_MATRİS\bin\Debug\STACK_MATRİS.exe.config
+C:\Users\ELiF\source\repos\STACK_MATRİS\STACK_MATRİS\bin\Debug\STACK_MATRİS.exe
+C:\Users\ELiF\source\repos\STACK_MATRİS\STACK_MATRİS\bin\Debug\STACK_MATRİS.pdb
+C:\Users\ELiF\source\repos\STACK_MATRİS\STACK_MATRİS\obj\Debug\STACK_MATRİS.csprojAssemblyReference.cache
+C:\Users\ELiF\source\repos\STACK_MATRİS\STACK_MATRİS\obj\Debug\STACK_MATRİS.csproj.CoreCompileInputs.cache
+C:\Users\ELiF\source\repos\STACK_MATRİS\STACK_MATRİS\obj\Debug\STACK_MATRİS.exe
+C:\Users\ELiF\source\repos\STACK_MATRİS\STACK_MATRİS\obj\Debug\STACK_MATRİS.pdb
