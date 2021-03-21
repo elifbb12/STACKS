@@ -1,0 +1,7 @@
+C:\Users\ELiF\source\repos\STACKLAR 2 ÇİFTLİ LİNKED LİST\STACKLAR 2 ÇİFTLİ LİNKED LİST\bin\Debug\STACKLAR 2 ÇİFTLİ LİNKED LİST.exe.config
+C:\Users\ELiF\source\repos\STACKLAR 2 ÇİFTLİ LİNKED LİST\STACKLAR 2 ÇİFTLİ LİNKED LİST\bin\Debug\STACKLAR 2 ÇİFTLİ LİNKED LİST.exe
+C:\Users\ELiF\source\repos\STACKLAR 2 ÇİFTLİ LİNKED LİST\STACKLAR 2 ÇİFTLİ LİNKED LİST\bin\Debug\STACKLAR 2 ÇİFTLİ LİNKED LİST.pdb
+C:\Users\ELiF\source\repos\STACKLAR 2 ÇİFTLİ LİNKED LİST\STACKLAR 2 ÇİFTLİ LİNKED LİST\obj\Debug\STACKLAR 2 ÇİFTLİ LİNKED LİST.csprojAssemblyReference.cache
+C:\Users\ELiF\source\repos\STACKLAR 2 ÇİFTLİ LİNKED LİST\STACKLAR 2 ÇİFTLİ LİNKED LİST\obj\Debug\STACKLAR 2 ÇİFTLİ LİNKED LİST.csproj.CoreCompileInputs.cache
+C:\Users\ELiF\source\repos\STACKLAR 2 ÇİFTLİ LİNKED LİST\STACKLAR 2 ÇİFTLİ LİNKED LİST\obj\Debug\STACKLAR 2 ÇİFTLİ LİNKED LİST.exe
+C:\Users\ELiF\source\repos\STACKLAR 2 ÇİFTLİ LİNKED LİST\STACKLAR 2 ÇİFTLİ LİNKED LİST\obj\Debug\STACKLAR 2 ÇİFTLİ LİNKED LİST.pdb
